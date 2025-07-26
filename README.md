@@ -2,7 +2,7 @@
 
 # Kotlin/Native Template
 
-A simple Kotlin/Native template for **Kotlin 2.2.0**.
+A simple Kotlin/Native template configured for desktop natives target and **Kotlin 2.2.0**.
 
 Include some sample code for `kotlinx-serializer`, `kotlinx-datetime`, `kotlinx-coroutines`, `kotlinx-io`
 
